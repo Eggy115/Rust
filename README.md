@@ -117,7 +117,7 @@ This will compile and run your Rust program.
 
 ## Contributing
 
-Contributions are always welcome! Here are some ways you can contribute:
+Contributions are always welcome! Follow these steps to contribute:
 
 1. Fork the repository and make your changes. 
 2. Submit a pull request with your changes.
