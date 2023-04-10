@@ -16,13 +16,13 @@ This repository contains a collection of Rust programs and scripts.
 - [Contributing](#contributing)
 - [License](#license)
 
-## What is C-Sharp
+## What is Rust
 
 C# is a programming language developed by Microsoft. It is a modern, object-oriented language that is used to develop a wide variety of applications, including desktop and mobile apps, web services, games, and more. C# is a popular language among developers due to its ease of use, extensive libraries, and tight integration with the .NET framework.
 
 ## Installation
 
-### Installing C-Sharp
+### Installing Rust
 
 To run the programs and scripts in this repository, you will need to have the .NET Framework installed on your computer. You can download the latest version from the official Microsoft website: https://dotnet.microsoft.com/download/. Below are platform-specific instructions.
 
@@ -58,12 +58,12 @@ Alternatively, you can also install the .NET SDK for macOS and use any text edit
 You can download individual files, copy & paste code, or clone the repository
 
 ```
-git clone https://github.com/Eggy115/CSharp.git
+git clone https://github.com/Eggy115/Rust.git
 ```
       
 ## Usage
 
-- To run a C# program, you'll need to compile it first.       
+- To run a Rust program, you'll need to compile it first.       
 - Once you have downloaded the scripts, build the project, which will compile the code into an executable file. In Visual Studio, you can do this by selecting "Build" from the menu bar and then clicking `Build Solution`.     
 - Run the executable file by double-clicking it or running it from the command line. In Visual Studio, you can run the program by selecting "Start" from the menu bar or by pressing the `F5` key.    
 
