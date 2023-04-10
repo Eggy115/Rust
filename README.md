@@ -13,6 +13,8 @@ This repository contains a collection of Rust programs and scripts.
     - [macOS](#macOS)  
   - [Installing Repository](#installing-repository)  
 - [Usage](#usage)
+  - [Default Method](#default-method)
+  - [Cargo](#cargo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -70,6 +72,8 @@ git clone https://github.com/Eggy115/Rust.git
       
 ## Usage
 
+### Default Method
+
 1. Clone the repository. If you have written your own programs, save the program with a `.rs` file extension.
 2. Open a terminal or command prompt and navigate to the directory where the Rust program is saved.
 3. Run the following command to compile the Rust program:
@@ -89,6 +93,8 @@ This will create an executable file in the same directory as your Rust program.
 
 This will run your Rust program.  
 
+### Cargo
+
 Alternatively, you can use Cargo, Rust's built-in package manager and build tool, to compile and run your Rust program. Here are the steps:
 
 1. Create a new Rust project using Cargo by running the following command in a terminal:
@@ -100,7 +106,7 @@ cargo new project_name
 Replace project_name with the name of your project.
 
 2. Open the src directory that was created by Cargo and open the `main.rs` file.
-3. Write your Rust program in the `main.rs` file.
+3. Write your Rust program in the `main.rs` file or rename a file from this repository to `main.rs`.
 4. Use Cargo to build and run your program by running the following command in a terminal:
 
 ```
