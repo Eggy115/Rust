@@ -70,9 +70,24 @@ git clone https://github.com/Eggy115/Rust.git
       
 ## Usage
 
-- To run a Rust program, you'll need to compile it first.       
-- Once you have downloaded the scripts, build the project, which will compile the code into an executable file. In Visual Studio, you can do this by selecting "Build" from the menu bar and then clicking `Build Solution`.     
-- Run the executable file by double-clicking it or running it from the command line. In Visual Studio, you can run the program by selecting "Start" from the menu bar or by pressing the `F5` key.    
+1. Clone the repository. If you have written your own programs, save the program with a .rs file extension.
+2. Open a terminal or command prompt and navigate to the directory where the Rust program is saved.
+3. Run the following command to compile the Rust program:
+
+```
+rustc program_name.rs
+```
+
+Replace program_name with the name of your Rust program.
+This will create an executable file in the same directory as your Rust program.
+
+4. Run the executable file by typing its name into the terminal and pressing Enter.
+
+```
+./program_name
+```
+
+This will run your Rust program.   
 
 ## Contributing
 
