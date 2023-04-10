@@ -18,7 +18,13 @@ This repository contains a collection of Rust programs and scripts.
 
 ## What is Rust
 
-C# is a programming language developed by Microsoft. It is a modern, object-oriented language that is used to develop a wide variety of applications, including desktop and mobile apps, web services, games, and more. C# is a popular language among developers due to its ease of use, extensive libraries, and tight integration with the .NET framework.
+Rust is a modern, multi-paradigm programming language that aims to provide the performance of low-level languages like C and C++ while also providing the safety and memory management of high-level languages like Java and Python. It was created by Mozilla in 2010 and has since gained popularity among developers for its speed, memory safety, and concurrency features.
+
+Rust is a statically-typed language, meaning that the types of variables and expressions are known at compile time, which can catch many errors before the code is run. Rust also includes a powerful ownership and borrowing system, which ensures that memory is allocated and deallocated correctly at compile time, preventing common bugs like null pointer dereferences and use-after-free errors.
+
+Rust has a modern syntax, with features like pattern matching, closures, and type inference, making it easy to write concise and expressive code. It also has a large and growing ecosystem of libraries and tools, including a package manager called Cargo, which makes it easy to manage dependencies and build projects.
+
+Overall, Rust is a powerful language that combines the performance of low-level languages with the safety and ease-of-use of high-level languages. It's used for a wide range of applications, from systems programming and operating systems to web development and game development.
 
 ## Installation
 
