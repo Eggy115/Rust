@@ -5,9 +5,9 @@
 This repository contains a collection of Rust programs and scripts.
 
 ## Table of Contents
-- [What is C#](#what-is-c-sharp)   
+- [What is Rust](#what-is-rust)   
 - [Installation](#installation)
-  - [Installing C#](#installing-c-sharp)    
+  - [Installing Rust](#installing-rust)    
     - [Windows](#windows)
     - [Linux](#linux)
     - [macOS](#macOS)  
@@ -24,34 +24,35 @@ C# is a programming language developed by Microsoft. It is a modern, object-orie
 
 ### Installing Rust
 
-To run the programs and scripts in this repository, you will need to have the .NET Framework installed on your computer. You can download the latest version from the official Microsoft website: https://dotnet.microsoft.com/download/. Below are platform-specific instructions.
+These are the general steps to install Rust on different platforms. However, the exact steps may vary depending on the specific operating system and version you are using. It's always a good idea to refer to the official documentation for your platform to get more detailed installation instructions.
 
 #### Windows
 
-1. Download the .NET SDK (Software Development Kit) from the official Microsoft website.
+1. Download the Rust installation executable from the official Rust website.
 2. Run the downloaded file and follow the installation instructions.
-3. Once the installation is complete, you can use any text editor or IDE (Integrated Development Environment) to write and compile C# code.
+3. Once the installation is complete, you can use any text editor or IDE (Integrated Development Environment) to write and compile Rust code.
 
 #### Linux
 
-1. Install the Mono Project, which is an open-source implementation of Microsoft's .NET framework for Linux systems.
-2. Open a terminal and run the following command to install Mono:
+1. Install Rust using the package manager for your Linux distribution. For example, on Ubuntu, you can use the following command:
 
 ```
-sudo apt-get install mono-complete
+sudo apt-get install rustc
 ```
 
-This will install the full Mono framework, including the C# compiler.
-
-3. Once Mono is installed, you can use any text editor or IDE to write and compile C# code.
+2. Once Rust is installed, you can use any text editor or IDE to write and compile Rust code.
 
 #### macOS
 
-1. Install Visual Studio for Mac, which is a full-featured IDE for developing C# applications on macOS.
-2. Once Visual Studio for Mac is installed, you can create a new C# project or open an existing project.
-3. You can then use the built-in C# compiler to compile your code and run your application.
+1. Install Rust using the Homebrew package manager for macOS. Open a terminal and run the following command:
 
-Alternatively, you can also install the .NET SDK for macOS and use any text editor or IDE to write and compile C# code.
+```
+brew install rust
+```
+
+2. Once Rust is installed, you can use any text editor or IDE to write and compile Rust code.
+
+Alternatively, you can also download the Rust installation package for macOS from the official Rust website and follow the installation instructions.
 
 ### Installing Repository
 
